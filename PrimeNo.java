@@ -29,7 +29,9 @@ class PrimeNo{
 	Scanner s=new Scanner(System.in);
 	System.out.println("Please Enter a number ");
 	int number= s.nextInt();
-	checkPrime(1); 
+	checkPrime(number);*/
+	
+	/*checkPrime(1); 
 	checkPrime(4); 
 	checkPrime(7);
 	checkPrime(13);
